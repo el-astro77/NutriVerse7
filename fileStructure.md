@@ -3,6 +3,7 @@
 NutriVerse7/
 
 ├── nutriverse-client/
+
 │   └── # Client-side code (web or mobile app) goes here
 
 ├── nutriverse-api/
