@@ -1,6 +1,6 @@
 import './App.css';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -16,8 +16,8 @@ function App() {
           Learn React
         </a>
       </header>
+      <button onClick={testClick}>Test</button>
+      <p id='text-box'>Sample Text</p>
     </div>
   );
 }
-
-export default App;
