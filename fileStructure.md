@@ -3,13 +3,24 @@
 NutriVerse7/
 
 ├── nutriverse-client/
+
 │   └── # Client-side code (web or mobile app) goes here
+
+
 ├── nutriverse-api/
+
 │   └── # Server-side API code goes here
+
+
+
 ├── nutriverse-ml/
 │   └── # Machine learning models and data processing code goes here
+
+
 ├── nutriverse-db/
 │   └── # Database schemas, migrations, and scripts go here
+
+
 ├── docs/
 │   └── # Project documentation goes here
 └── .gitignore
