@@ -14,14 +14,17 @@ NutriVerse7/
 
 
 ├── nutriverse-ml/
+
 │   └── # Machine learning models and data processing code goes here
 
 
 ├── nutriverse-db/
+
 │   └── # Database schemas, migrations, and scripts go here
 
 
 ├── docs/
+
 │   └── # Project documentation goes here
 └── .gitignore
 
